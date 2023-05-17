@@ -1,13 +1,18 @@
 React-Todolist
+
 React-Todolist is a simple web application built with React that allows users to create and manage tasks in a to-do list. The application is lightweight and easy to use, making it a great choice for anyone looking for a straightforward task manager.
 
 Getting Started
+
 To get started with React-Todolist, simply clone the repository and install the necessary dependencies:
 
 Copy
 git clone https://github.com/Walid-Khalfa/React-Todolist.git
+
 cd React-Todolist
+
 npm install
+
 Once you've installed the dependencies, you can start the application:
 
 Copy
